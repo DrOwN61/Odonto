@@ -1085,7 +1085,7 @@ details p {
 
 .footer {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   gap: 16px;
   padding: 28px clamp(16px, 4vw, 56px);
   color: var(--white);
